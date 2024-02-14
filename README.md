@@ -6,11 +6,11 @@ wordpress Massive Account Password Blasting
 [Download](https://github.com/mypikapika/wordpress-account-blasting/releases)
 
 # Dependent environment
-'''python
+```python
 python3 -m pip install -r requirements.txt
-'''
+```
 # usage
-'''python
+```python
 python3 wpbp.py -t 500 -f url.txt
-'''
+```
 
