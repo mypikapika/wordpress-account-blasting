@@ -2,15 +2,18 @@
 wordpress Massive Account Password Blasting
 ![1](https://github.com/mypikapika/wordpress-account-blasting/blob/main/IMG_0251.jpeg)
 
-# Download Release
+# Download Release & Unzip
 [Download](https://github.com/mypikapika/wordpress-account-blasting/releases)
+```shell
+unzip dist.zip
+```
 
 # Dependent environment
-```python
+```shell
 python3 -m pip install -r requirements.txt
 ```
 # usage
-```python
+```shell
 python3 wpbp.py -t 500 -f url.txt
 ```
 
